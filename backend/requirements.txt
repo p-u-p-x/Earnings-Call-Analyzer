@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pypdf
+python-dotenv
+spacy
+torch
+transformers
+numpy
+chromadb
+python-multipart
